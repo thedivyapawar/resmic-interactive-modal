@@ -1,4 +1,3 @@
-import './App.css'
 import PopUpModal from './components/PopUpModal'
 
 function App() {
