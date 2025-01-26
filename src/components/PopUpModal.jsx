@@ -33,7 +33,7 @@ function PopUpModal() {
   return (
     <>      
       <div className="container-fluid">
-        <div className="row min-vh-100 overflow-x-hidden">
+        <div className="row min-vh-100">
             <div className="col-12 d-flex justify-content-center align-items-center flex-wrap">
                 <div className="row">
                     <div className="col-md-5 m-3 d-flex justify-content-center">
